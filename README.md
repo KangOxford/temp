@@ -1,3 +1,9 @@
+# For Assignment 4, vist the "Assignment8.ipnb" file.
+
+
+
+
+
 pi0 = 0.4234011 
 
 pi1 = 0.41998577
