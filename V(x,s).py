@@ -40,11 +40,11 @@ for m in range(M-1):
 print(w[0,1:])
 # %%
 # import matplotlib.pyplot as plt 
-# V_x_0 = w[0,:]
-# V_x_1 = w[M-1,:]
-# plt.plot(x, V_x_0)
-# plt.plot(x, V_x_1)  
-# plt.legend(['V_x_0','V_x_1'])
+V_x_0 = w[0,:]
+V_x_1 = w[M-1,:]
+plt.plot(x, V_x_0)
+plt.plot(x, V_x_1)  
+plt.legend(['V_x_0','V_x_1'])
 
 # %%        
         
