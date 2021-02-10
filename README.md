@@ -1,4 +1,4 @@
-# For Assignment 4, vist the "Assignment8.ipnb" file.
+# For Assignment 4, visit the "Assignment8.ipnb" file.
 
 
 
